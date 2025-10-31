@@ -1,0 +1,16 @@
+{
+  "name": "Dual Timer with Tasks",
+  "short_name": "DualTime",
+  "description": "A dual timer tool built by Kelly",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f4c2c2",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
